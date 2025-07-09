@@ -10,5 +10,11 @@ To run this project, ensure you have the following installed:
     pip3 install joblib 
     pip3 install scikit-learn 
     pip3 install scikit-image 
+**_Pandas_** and **_Matplotlib_** for plotting and tabular summaries
 
+**_Joblib_** for saving/loading models and datasets
+
+**_Scikit-learn_** for the model pipeline, grid search, classifiers and metrics
+
+**_Scikit-image_** for image reading, resizing, grayscale conversion and HOG features
 
