@@ -18,3 +18,7 @@ To run this project, ensure you have the following installed:
 
 **_Scikit-image_** for image reading, resizing, grayscale conversion and HOG features
 
+# 📋 Contents
+This project includes the following contents,
+  1. Dataset
+  2. Project Images
