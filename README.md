@@ -22,3 +22,4 @@ To run this project, ensure you have the following installed:
 This project includes the following contents,
   1. Dataset
   2. Project Images
+  3. Classification Code
