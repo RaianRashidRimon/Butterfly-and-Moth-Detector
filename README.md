@@ -23,3 +23,8 @@ This project includes the following contents,
   1. Dataset
   2. Project Images
   3. Classification Code
+
+## Pipeline of the process
+<div align="center">
+  <img src="Project Images/Pipeline.jpg" alt="pipeline" width="300"/>
+</div>
