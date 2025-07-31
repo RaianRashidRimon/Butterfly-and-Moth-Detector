@@ -25,6 +25,13 @@ This project includes the following contents,
   3. Classification Code
 
 ## Pipeline of the process
+
 <div align="center">
   <img src="Project Images/Pipeline.jpg" alt="pipeline" width="300"/>
+</div>
+
+## Confusion matrix of the first output 
+
+<div align="center">
+  <img src="Project Images/First Confusion Matrix.jpg" alt="CM1" width="800"/>
 </div>
