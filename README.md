@@ -24,6 +24,12 @@ This project includes the following contents,
   2. Project Images
   3. Classification Code
 
+## Dataset
+
+<div align="center">
+  <img src="Project Images/Dataset amount.jpg" alt="dataset" width="500"/>
+</div>
+
 ## Pipeline of the process
 
 <div align="center">
