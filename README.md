@@ -36,8 +36,14 @@ This project includes the following contents,
   <img src="Project Images/Pipeline.jpg" alt="pipeline" width="300"/>
 </div>
 
-## Confusion matrix of initial output 
+## Confusion Matrix of initial output 
 
 <div align="center">
   <img src="Project Images/First Confusion Matrix.jpg" alt="CM1" width="800"/>
+</div>
+
+## Confusion Matrix of improved output
+
+<div align="center">
+  <img src="Project Images/Second Confusion Matrix.jpg" alt="CM2" width="800"/>
 </div>
