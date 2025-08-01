@@ -10,6 +10,7 @@ To run this project, ensure you have the following installed:
     pip3 install joblib 
     pip3 install scikit-learn 
     pip3 install scikit-image 
+    
 **_Pandas_** and **_Matplotlib_** for plotting and tabular summaries
 
 **_Joblib_** for saving/loading models and datasets
@@ -46,4 +47,10 @@ This project includes the following contents,
 
 <div align="center">
   <img src="Project Images/Second Confusion Matrix.jpg" alt="CM2" width="800"/>
+</div>
+
+## Final IDLE Output
+
+<div align="center">
+  <img src="Project Images/IDLE Output.jpg" alt="idle output" width="800"/>
 </div>
