@@ -31,6 +31,12 @@ This project includes the following contents,
   <img src="Project Images/Dataset amount.jpg" alt="dataset" width="500"/>
 </div>
 
+## Dataset Sample
+
+<div align="center">
+  <img src="Project Images/Sample.jpg" alt="sample" width="800"/>
+</div>
+
 ## Pipeline of the process
 
 <div align="center">
