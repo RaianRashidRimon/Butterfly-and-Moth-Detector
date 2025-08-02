@@ -60,3 +60,11 @@ This project includes the following contents,
 <div align="center">
   <img src="Project Images/IDLE Output.jpg" alt="idle output" width="800"/>
 </div>
+
+# 🤝 Contribution
+Contributions are welcome! If you’d like to improve this project, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Add or update Python scripts for better/improved accuracy.
+4. Submit a pull request.
