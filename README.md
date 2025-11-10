@@ -5,10 +5,11 @@ This project aims to develop a machine learning pipeline using Scikit-learn to c
 To run this project, ensure you have the following installed:
   1. Python 3.7+
   2. Required Python packages
-     
+
     pip3 install pandas matplotlib 
+    pip3 install joblib 
     pip3 install scikit-learn 
-    pip3 install seaborn
+    pip3 install scikit-image 
     
 **_Pandas_** and **_Matplotlib_** for plotting and tabular summaries
 
