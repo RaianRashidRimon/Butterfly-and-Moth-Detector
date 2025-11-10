@@ -1,15 +1,14 @@
 # 🦋 Butterfly and Moth Detector
 This project aims to develop a machine learning pipeline using Scikit-learn to classify images of butterflies and moths. It involves data preprocessing, model training, and evaluation to accurately distinguish between different classes of both buttery and moth.
 
-# Prerequisite
+## Prerequisite
 To run this project, ensure you have the following installed:
   1. Python 3.7+
   2. Required Python packages
      
     pip3 install pandas matplotlib 
-    pip3 install joblib 
     pip3 install scikit-learn 
-    pip3 install scikit-image 
+    pip3 install seaborn
     
 **_Pandas_** and **_Matplotlib_** for plotting and tabular summaries
 
@@ -19,49 +18,49 @@ To run this project, ensure you have the following installed:
 
 **_Scikit-image_** for image reading, resizing, grayscale conversion and HOG features
 
-# Contents
+## Contents
 This project includes the following contents,
   1. Dataset
   2. Project Images
   3. Classification Code
 
-## Dataset
+### Dataset
 
 <div align="center">
   <img src="Project Images/Dataset amount.jpg" alt="dataset" width="500"/>
 </div>
 
-## Dataset Sample
+### Dataset Sample
 
 <div align="center">
   <img src="Project Images/Sample.jpg" alt="sample" width="800"/>
 </div>
 
-## Pipeline of the process
+### Pipeline of the process
 
 <div align="center">
   <img src="Project Images/Pipeline.jpg" alt="pipeline" width="300"/>
 </div>
 
-## Confusion Matrix of initial output 
+### Confusion Matrix of initial output 
 
 <div align="center">
   <img src="Project Images/First Confusion Matrix.jpg" alt="CM1" width="800"/>
 </div>
 
-## Confusion Matrix of improved output
+### Confusion Matrix of improved output
 
 <div align="center">
   <img src="Project Images/Second Confusion Matrix.jpg" alt="CM2" width="800"/>
 </div>
 
-## Final IDLE Output
+### Final IDLE Output
 
 <div align="center">
   <img src="Project Images/IDLE Output.jpg" alt="idle output" width="800"/>
 </div>
 
-# Contribution
+## Contribution
 Contributions are welcome! If you’d like to improve this project, please follow these steps:
 
 1. Fork the repository.
